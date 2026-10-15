@@ -1,0 +1,4 @@
+Python is easy
+Java is useful
+C is powerful
+SQL is important
